@@ -1,0 +1,165 @@
+{
+  "name": "Balu Bharath Kumar Reddy",
+  "email": "bharathbalu401@gmail.com",
+  "mobile": "+91 6305443592",
+  "links": {
+    "linkedin": "https://linkedin.com/in/bharathreddy3398",
+    "github": "https://github.com/BharathReddyBalu"
+  },
+  "aboutMe": "I am a Computer Science Engineering student with strong interest in cybersecurity, problem-solving, and system-level development. Skilled in Python, C++, and modern tools like Kali Linux, TryHackMe, and HackTheBox. I enjoy building security-focused applications and solving real-world problems.",
+  "skills": {
+    "languages": ["C", "C++", "Java", "Python", "HTML", "CSS"],
+    "frameworks": ["NumPy", "Pandas"],
+    "tools": ["Git", "GitHub", "Kali Linux", "TryHackMe", "HackTheBox"]
+  },
+  "training": [
+    {
+      "title": "Basics of DSA",
+      "organization": "LPU",
+      "date": "July 2025",
+      "highlights": [
+        "Completed a hands-on summer training program gaining strong foundational knowledge in problem-solving and algorithms.",
+        "Explored core DSA modules including Arrays, Searching, Sorting, and Time Complexity Analysis.",
+        "Obtained Certificate of Merit with A grade."
+      ],
+      "image": "certifications_images/lpu_dsa_merit_cert.jpg",
+      "certificateUrl": "certifications_images/lpu_dsa_merit_cert.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Password Strength Checker",
+      "date": "2025",
+      "techStack": ["Python", "Entropy Algorithms"],
+      "description": "Built a CLI tool to evaluate password strength using entropy analysis. Generates secure password suggestions with a focus on password security and randomness.",
+      "githubUrl": "https://github.com/BharathReddyBalu",
+      "liveUrl": "",
+      "image": "project_images/password.jpg"
+    },
+    {
+      "title": "Voice Process Manager",
+      "date": "2025",
+      "techStack": ["Python", "Speech Recognition", "OS Process Handling"],
+      "description": "Voice-controlled system process manager that can list and terminate tasks using speech commands. Includes error handling and confirmation prompts for safe process management.",
+      "githubUrl": "https://github.com/BharathReddyBalu",
+      "liveUrl": "",
+      "image": "project_images/voice_process_manger.jpg"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Privacy and Security in Online Social Media",
+      "issuer": "NPTEL (Skill India)",
+      "date": "Jan-Apr 2025",
+      "image": "certifications_images/nptel_privacy_security.jpg"
+    },
+    {
+      "title": "The Bits and Bytes of Computer Networking",
+      "issuer": "Google (Coursera)",
+      "date": "Sep 7, 2024",
+      "image": "certifications_images/google_networking.jpg"
+    },
+    {
+      "title": "Advent of Cyber 2025",
+      "issuer": "TryHackMe",
+      "date": "Dec 28, 2025",
+      "image": "certifications_images/thm_advent_2025.jpg"
+    },
+    {
+      "title": "Hackathon in Vikrant 2025",
+      "issuer": "LPU-NSS",
+      "date": "Mar 2025",
+      "image": "certifications_images/lpu_hackathon_participation.jpg"
+    },
+    {
+      "title": "Python Programming",
+      "issuer": "CSE Pathshala",
+      "date": "Mar 2024",
+      "image": "certifications_images/cse_pathshala_python.png"
+    },
+    {
+      "title": "Basics of DSA",
+      "issuer": "LPU (Centre for Professional Enhancement)",
+      "date": "Aug 2025",
+      "image": "certifications_images/lpu_dsa_merit_cert.jpg"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Problem Solving",
+      "issuer": "HackerRank",
+      "image": "achievement_images/hr_problem_solving_2star.png"
+    },
+    {
+      "title": "C++ Proficiency",
+      "issuer": "HackerRank",
+      "image": "achievement_images/hr_cpp_4star.png"
+    },
+    {
+      "title": "Java Proficiency",
+      "issuer": "HackerRank",
+      "image": "achievement_images/hr_java_2star.png"
+    },
+    {
+      "title": "Python Proficiency",
+      "issuer": "HackerRank",
+      "image": "achievement_images/hr_python_2star.png"
+    },
+    {
+      "title": "30 Day Hacking Streak",
+      "issuer": "TryHackMe",
+      "image": "achievement_images/thm_30_day_streak.png"
+    },
+    {
+      "title": "50 Days Badge 2026",
+      "issuer": "LeetCode",
+      "image": "achievement_images/badge_50_days.png"
+    },
+    {
+      "title": "Advent of Cyber 2025",
+      "issuer": "TryHackMe",
+      "image": "achievement_images/thm_advent_2025.png"
+    },
+    {
+      "title": "Networking Nerd",
+      "issuer": "TryHackMe",
+      "image": "achievement_images/thm_networking_nerd.png"
+    },
+    {
+      "title": "Introduction to Security Engineering",
+      "issuer": "TryHackMe",
+      "image": "achievement_images/thm_security_engineering.png"
+    }
+  ],
+  "codingPlatforms": [
+    {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/u/Balu_Bharath/",
+      "strength": 75,
+      "details": [
+        { "label": "Global Rank", "value": "517,074" },
+        { "label": "Solved", "value": "70 / 3878" },
+        { "label": "Top", "value": "60.86%" },
+        { "label": "Max Streak", "value": "24 Days" }
+      ]
+    },
+    {
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/profile/bharathkumar8062",
+      "strength": 80,
+      "details": [
+        { "label": "Badges", "value": "Problem Solving (2*), 30 Days of Code" },
+        { "label": "Proficiency", "value": "4 Stars (C++), 2 Stars (Java, Python)" },
+        { "label": "Max Streak", "value": "15 Days" },
+        { "label": "Skill Mastery", "value": "Top 15%" }
+      ]
+    }
+  ],
+  "education": [
+    { "school": "Lovely Professional University", "degree": "Bachelor of Technology - Computer Science and Engineering", "cgpa": "6.96", "date": "Aug’ 23 - Present", "location": "Punjab, India" },
+    { "school": "Sri Chaitanya Junior College", "degree": "Intermediate", "percentage": "95%", "date": "Jun’ 21 - Apr’ 23", "location": "Vijayawada, Andhra Pradesh" },
+    { "school": "Oxford High School", "degree": "Matriculation", "percentage": "100%", "date": "Jun’ 20 - Apr’ 21", "location": "Ongole, Andhra Pradesh" }
+  ],
+  "coreSubjects": ["DBMS", "OS", "Computer Networks", "OOP"],
+  "softSkills": ["Problem-solving", "Adaptability", "Time Management"]
+}
