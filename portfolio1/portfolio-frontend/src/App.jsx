@@ -27,7 +27,7 @@ function App() {
 
   useEffect(() => {
     setLoading(true);
-    axios.get('http://localhost:5000/api/cv')
+    axios.get('https://portfolio-d3sg.onrender.com/api/cv')
       .then(res => {
         setCvData(res.data);
         setError(null);
